@@ -83,6 +83,7 @@ h3{
 .footer{
   position: absolute;
   font-weight: normal;
+  color:#333333;
   width: 960px;
   left:15%;
   top:25%;
