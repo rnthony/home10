@@ -46,7 +46,7 @@ h2{
   letter-spacing: 0;
   -webkit-animation: typing2 1s steps(40, end);
   animation: typing2 4s steps(40, end), blink-caret2 .75s step-end infinite;;
-  -webkit-animation-delay: 1s;
+  -webkit-animation-delay: 2s;
   animation-delay: 1s;
   -webkit-animation-fill-mode: forwards;
   animation-fill-mode: forwards;
@@ -127,7 +127,7 @@ h3{
 
 #fragment2
 {
-  margin-top:-60px;
+  margin-top:-80px;
 }
 #fragment1
 {
