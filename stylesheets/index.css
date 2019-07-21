@@ -128,10 +128,12 @@ h3{
 #fragment2
 {
   margin-top:-80px;
+  background-color: #fefbd8;
 }
 #fragment1
 {
   width: 25em;
+  background-color: #fefbd8;
 		    white-space:nowrap;
 		    overflow:hidden;
 		    -webkit-animation: frag1type 20s steps(50, end) 0s infinite;
